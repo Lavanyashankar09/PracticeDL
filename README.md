@@ -1,3 +1,3 @@
 # PracticeDL
 
-NLP techniques practice problems
+DL techniques practice problems
